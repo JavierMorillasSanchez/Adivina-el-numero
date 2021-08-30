@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">¡Adivina el número!</string>
+    <string name="message">
+        Por favor, selecciona primero un número de dígitos.
+        El número de dígitos que me digas y el que yo use será el mismo.
+        Recuerda que tienes 10 intentos.
+    </string>
+</resources>
